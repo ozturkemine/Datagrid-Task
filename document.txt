@@ -1,0 +1,19 @@
+ÝZLENEN ADIMLAR
+- Bilgisayarýma daha önceden Nodejs ve Angular kurulu olduðu için bu adýmlarý geçtim.
+- Yeni bir angular projesi oluþturdum.
+- Ýsimlendirmeyi projenin amacýna uygun belirledim.
+- Projemi Visual Studio Code üzerinden geliþtiriyorum.
+- Proje oluþturma tamamlandýktan sonra git baðlantýsýný yaptým. 
+- Böylece bir hata olursa git tarafýndan geriye dönüþ yapabileceðim.
+
+
+PROJE ÝZLENÝMLERÝ
+- Header var ve burada logo, sekmeler ve sosyal medya ikonlarý yer alýyor. 
+- Ana renk olarak morun bir tonu kullanýlmýþ. 
+- Temel olarak bir datagrid yapýsý vardýr. 
+- Bunun yanýnda bana verilen bir tasarýmýn aynýsý istenmektedir. 
+- Gerçek hayatta ki müþterilerin istekleri önce tasarlanýr ve sonra biz yazýlým ekibi bu tasarýmlarýn olabildiðince aynýsý oluþtururuz.
+- Bana verilen bu tasarýmda datagrid'in yanýnda bir sayfalama iþlemi de vardýr. Sayfalama iþlemi yaparken her sayfada kaç tane satýrýn gözükeceðini de kullanýcý seçecektir.
+- Yeni hesap ekle butonu var. Bu butona týklanýnca bir modal açýlýr ve kullanýcý yeni bir hesap oluþturur. 
+- Yazýlýmcý gözüyle yeni hesap ekle butonuna bakarsam CRUD iþlemlerinden Create ve Read iþlemleri vardýr. 
+- Bu projenin içerisinde tablonun içerisini sýralama ve tabloda arama iþlemleri de mevcuttur. 	
