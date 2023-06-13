@@ -5,6 +5,8 @@
 - Projemi Visual Studio Code üzerinden geliþtiriyorum.
 - Proje oluþturma tamamlandýktan sonra git baðlantýsýný yaptým. 
 - Böylece bir hata olursa git tarafýndan geriye dönüþ yapabileceðim.
+- Önce componenti oluþturdum. Sonra o komponentin arayüzünü tasarlamaya baþladým. 
+- Bootstrap 5 ile responsive olacak þekilde tasarlaýdm. Gereken yerlerde css kodlarý ekledim. 
 
 
 PROJE ÝZLENÝMLERÝ
@@ -17,3 +19,5 @@ PROJE ÝZLENÝMLERÝ
 - Yeni hesap ekle butonu var. Bu butona týklanýnca bir modal açýlýr ve kullanýcý yeni bir hesap oluþturur. 
 - Yazýlýmcý gözüyle yeni hesap ekle butonuna bakarsam CRUD iþlemlerinden Create ve Read iþlemleri vardýr. 
 - Bu projenin içerisinde tablonun içerisini sýralama ve tabloda arama iþlemleri de mevcuttur. 	
+
+ot: Ben þu anda çalýþmaya devam ediyorum. Bu yüzden projeye akþam iþ çýkýþý bakabildim. Daha fazla zamaným olsa, bu projenin daha fazlasýný rahatlýkla yaparým. Teþekkür ederim.
