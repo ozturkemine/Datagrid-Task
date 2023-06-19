@@ -2,11 +2,44 @@
     height: fit-content;
     background-color: #744BFC;
     border-radius:50%;
+    width: 45px;
+height: 42px;
 }
 .search {
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
+    height: 42px;
+    width: 380px;
+    left: -1019px;
+    top: -352px;
+
 }
+
+.btn-filter {
+    height: fit-content;
+    color:  #744BFC;
+    background-color:white ;
+    border-radius:50%;
+    width: 45px;
+height: 42px;
+
+}
+
 .table {
     border-radius: 50px;
+}
+
+.add-button {
+    height: 42px;
+    width: 175px;
+    left: 236px;
+    top: -352px;
+    border-radius: 39px;
+    background: #744BFC;
+    color: white
+}
+
+.item-link {
+    color:black;
+    text-decoration: none;
 }

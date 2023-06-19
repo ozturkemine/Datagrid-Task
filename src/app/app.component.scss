@@ -1,5 +1,16 @@
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 
+body {
+    background-color: #EFF2FF;
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
 a.btn-social,
 .btn-social
 {
@@ -68,9 +79,25 @@ a.btn-social,
 
 .btn-social
 {
+    height: 18.00001335144043px;
+    width: 18.00001335144043px;
+    left: 289px;
+    top: -451px;
+    border-radius: [object Object]px;
+    
     background-color: #744BFC;
 }
 .btn-social:hover
 {
     background-color: #8764fd;
+}
+
+
+.navbar-nav {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;    
 }
