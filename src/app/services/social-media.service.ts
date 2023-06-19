@@ -7,11 +7,11 @@ import { SocialMedia } from '../models/social-media.model';
 })
 export class SocialMediaService {
   private socialMediaData: SocialMedia[] = [
-    { name: 'Twitter', description: 'Social networking and microblogging service', link: 'https://twitter.com' },
-    { name: 'Facebook', description: 'Social networking platform', link: 'https://facebook.com' },
-    { name: 'Instagram', description: 'Photo and video sharing social networking service', link: 'https://instagram.com' },
-    { name: 'LinkedIn', description: 'Professional networking platform', link: 'https://linkedin.com' },
-    { name: 'YouTube', description: 'Video sharing platform', link: 'https://youtube.com' }
+    { name: 'Twitter', description: 'Social networking and microblogging service', link: 'twitter.com' },
+    { name: 'Facebook', description: 'Social networking platform', link: 'facebook.com' },
+    { name: 'Instagram', description: 'Photo and video sharing social networking service', link: 'instagram.com' },
+    { name: 'LinkedIn', description: 'Professional networking platform', link: 'linkedin.com' },
+    { name: 'YouTube', description: 'Video sharing platform', link: 'youtube.com' }
     // Diğer sosyal medya verileri buraya eklenebilir
   ];
 
